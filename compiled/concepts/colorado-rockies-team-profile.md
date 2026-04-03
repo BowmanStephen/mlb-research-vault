@@ -6,6 +6,11 @@ tags:
   - team-profile
   - fade-target
 status: compiled
+created: 2026-04-03
+last_updated: 2026-04-03
+related:
+  - "[[Chicago White Sox Team Profile]]"
+  - "[[Shane Smith Pitcher Profile]]"
 ---
 
 # Colorado Rockies — Team Profile
@@ -21,6 +26,8 @@ status: compiled
 3. **Ownership inertia:** Dick Monfort refuses outside hires; GM Bill Schmidt in place for years
 4. **Coors Field illusion:** Home splits mask underlying roster weakness
 5. **Key draft busts:** Riley Pint, Zac Veen, Benny Montgomery, Chase Dollander (6.52 ERA in 2025)
+6. **Payroll waste:** $172M peak (2023), Kris Bryant $182M for -1.6 WAR and $81M remaining
+7. **Fan exodus:** Attendance dropped from 6th (2019) to 15th (2025); ~75% away fans at Coors
 
 ## 2026 Roster Notes
 - Signed Michael Lorenzen (6.23 ERA through 6 games)

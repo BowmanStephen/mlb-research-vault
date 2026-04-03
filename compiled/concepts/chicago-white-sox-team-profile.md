@@ -6,6 +6,11 @@ tags:
   - team-profile
   - fade-target
 status: compiled
+created: 2026-04-03
+last_updated: 2026-04-03
+related:
+  - "[[Colorado Rockies Team Profile]]"
+  - "[[Shane Smith Pitcher Profile]]"
 ---
 
 # Chicago White Sox — Team Profile
